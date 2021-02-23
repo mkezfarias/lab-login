@@ -1,2 +1,4 @@
-# lab-login
-HTML Login page for a Laboratory app
+Quick Design
+
+Vanilla HTML and CSS login screen for Acuna y Asociados Laboratory app
+
